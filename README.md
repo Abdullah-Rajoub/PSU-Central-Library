@@ -1,5 +1,5 @@
 # Library-App
-This app runs on both Andriod and IOS. It was developed using React Native and JavaScript, HTML5, CSS, Bootstrap, and PHP.
+This app runs on both Andriod and IOS. It was developed using React Native, JavaScript, HTML5, CSS, Bootstrap, and PHP.
 
 # How to run the app?
 In order to run this prototype, first download Expo Go on your device (Andriod or IOS). Then, download the code from main. Inside VSCode terminal, write the folllowing: 
